@@ -1,4 +1,4 @@
-# getx_details
+## getx details
 
 A new Flutter project.
 
